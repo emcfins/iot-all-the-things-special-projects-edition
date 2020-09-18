@@ -1,7 +1,5 @@
 FROM amazoncorretto:11-al2-full
 
-RUN yum install -y net-tools
-
 # Make sure we use UTF-8 to avoid JSON output issues (without this special chars like non-stand
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
