@@ -20,3 +20,7 @@ In this episode Erin and Tim hack away and show off some of their lighting proje
 - [Philips Hue Play light bar](https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-play-light-bar-single-pack/7820130U7)
 - [LiFX A19 bulb](https://www.lifx.com/collections/gaming/products/lifx)
 
+## FAQ
+
+- Q: How do I get started with my Hue bridge?
+- A: You'll need the IP address of your bridge and the username. You can [follow Hue's developer documentation getting started page](https://developers.meethue.com/develop/get-started-2/) to find them.
