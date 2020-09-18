@@ -16,3 +16,14 @@ The scripts currently available are:
 
 Each script will provide usage instructions if no arguments are provided. Each script also rebuilds the code, if
 necessary, on each run so you can make changes and test them quickly.
+
+## FAQ
+
+- Q: I'm seeing errors from the LiFX code that look like the snippet below, is that a problem?
+
+```
+Sep 18, 2020 12:20:24 PM com.github.besherman.lifx.impl.network.LFXMessageRouter sendWithPath
+SEVERE: No address for gateway, this should not happen
+```
+
+- A: This error is not a problem. It appears to be a bug in the library.
